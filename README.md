@@ -1,4 +1,4 @@
-# Excel-Sales-and-Finance-Analytics-of-AtliQ-Hardwares
+# Sales & Finance Analytics | Excel | 500K+ Records
 
 # 💾 Problem Statement:
 AtliQ Hardwares, a leading hardware company specializing in PCs, printers, mice, and computers with a global reach, faces the challenge of optimizing sales and improving net gross margins.
